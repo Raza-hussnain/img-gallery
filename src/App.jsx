@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="p-2 flex gap-1 flex-wrap justify-between">
       <img
-        className="h-[200px] "
+        className="h-[200px]"
         src="https://images.unsplash.com/photo-1683491753112-604719ba1797?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D"
         alt=""
       />
